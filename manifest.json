@@ -1,0 +1,17 @@
+{
+  "name": "Kaidan Walks",
+  "short_name": "Kaidan",
+  "description": "Rutas de paseo y tracking para Kaidan",
+  "start_url": "./kaidan-walks.html",
+  "display": "standalone",
+  "background_color": "#3b2a1a",
+  "theme_color": "#c4622d",
+  "icons": [
+    {
+      "src": "./kaidan-icon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
