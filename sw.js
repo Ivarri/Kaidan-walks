@@ -1,6 +1,6 @@
 const CACHE_NAME = 'kaidan-walks-v1';
 const ASSETS = [
-  './kaidan-walks.html',
+  './index.html',
   './manifest.json',
   './kaidan-icon.svg',
   'https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.css',
